@@ -9,8 +9,8 @@ a.Step perform:
 4.  Fixed inconsisting data forms.
 
 b.Files:
-1.Medical Appointment No Shows(before cleaning).pdf
-2.Medical Appointment No Shows(after cleaning).pdf
+1.Medical Appointment No Shows(before cleaning).pdf(original dataset)
+2.Medical Appointment No Shows(after cleaning).pdf(final cleaned dataset)
 3.README.md: Documentation of the project
 
 c. Tools Used:
