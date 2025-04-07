@@ -10,11 +10,14 @@ a.Step perform:
 
 b.Files:
 1.Medical Appointment No Shows(before cleaning).pdf(original dataset)
+
 2.Medical Appointment No Shows(after cleaning).pdf(final cleaned dataset)
+
 3.README.md: Documentation of the project
 
 c. Tools Used:
 -Microsoft Excel
+
 -Excel function: 'IF()','Proper()"
 
 d. Author:
